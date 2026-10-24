@@ -1,1 +1,1 @@
-# Practice-2
+A simple banking system in c

@@ -75,6 +75,7 @@ default:
 printf("Invalid choice.\n");
 }
 }while(choice!=5);
+printf("Thank you and have a nice day\n");
 return 0;}
 double deposit(double balance, double amount){
 return balance + amount;}
